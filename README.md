@@ -9,6 +9,9 @@ O objetivo é aplicar técnicas de **Machine Learning Não Supervisionado**, uti
 A aplicação foi construída com **Python** e **Streamlit**, permitindo que novos dados sejam enviados através de um arquivo CSV para que o modelo treinado realize previsões dos grupos aos quais cada usuário pertence.
 
 ---
+## Link do Streamlit
+https://cursoaluraclusteriza-o-revisaodeagrupamentosgit-7s2fgq6fwknkcj.streamlit.app/
+---
 
 ## Tecnologias Utilizadas
 
